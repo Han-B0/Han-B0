@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Han-B0/Han-B0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - I am currently working full time in the medical field. I have always been interested in computer science, but I was too scared to start. October 2024 I finally made the jump by enrolling in college with a major in computer science. I am still very new, know close to nothing about this field, but I am loving all the new information and concepts i'm learning. I am excited with all the possibilities this field has to offer. Always excited to learn new skills. 
 - 🌱 Currently learning python, html, javascript and CSS.
